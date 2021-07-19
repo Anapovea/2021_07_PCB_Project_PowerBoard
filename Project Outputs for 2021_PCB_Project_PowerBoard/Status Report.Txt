@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [2021_PCB_Project_PowerBoard.PrjPcb]
+   Generated File[ISL6236A_DEMO.TXT]
+   Generated File[ISL6236A_DEMO.LDP]
+   Generated File[ISL6236A_DEMO.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 15:46:06 On 19/07/2021

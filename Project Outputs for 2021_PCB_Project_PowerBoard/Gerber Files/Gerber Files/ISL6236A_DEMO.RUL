@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\alber\Dropbox\Learn Altium Essentials - July 2021\2021_PCB_Project_PowerBoard\ISL6236A_DEMO.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 15:58:32 On 19/07/2021
+
+Output: BOM
+Type  : BOM
+From  : Variant [[No Variations]] of Project [2021_PCB_Project_PowerBoard.PrjPcb]
+   Generated File[BOM-2021_PCB_Project_PowerBoard.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 15:58:55 On 19/07/2021
